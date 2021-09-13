@@ -620,7 +620,7 @@ h3.foot-lorem{
 @media all and (max-width:800px){
    .try-btn{
       font-size: 30% !important;
-      width: 40%;
+      width: 18%;
       border: 1px solid hsl(321, 100%, 78%);
       border-radius: 17px;
       height: auto;
